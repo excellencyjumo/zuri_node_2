@@ -1,4 +1,3 @@
-const e = require('express')
 const Flights = require('../models/flight-M')
 
 //add new flight
